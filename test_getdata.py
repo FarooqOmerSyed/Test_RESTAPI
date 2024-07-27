@@ -1,4 +1,3 @@
-
 import requests
 
 endpoint = 'https://dummyjson.com/users/1'
